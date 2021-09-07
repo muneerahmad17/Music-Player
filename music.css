@@ -21,7 +21,7 @@ html{
 .main_div{
     width:100vw;
     height:100vh;
-    background-image: url("../Image/musicplayerB.jpg");
+    background-image: url("/Image/musicplayerB.jpg");
     background-size: cover;
     background-color: #2b2525;
     display: grid;
