@@ -59,7 +59,7 @@ const loadSong =(songs) => {
     img.src = "Image/" + songs.image + ".jpg";
 };
 
-songIndex= 2;
+songIndex= 0;
  //loadSong(songs[1]);
 
 const nextSong = () =>{
