@@ -78,4 +78,6 @@ const prevSong = () =>{
 
 next.addEventListener('click', nextSong);
 prev.addEventListener('click', prevSong);
+music.addEventListener('ended', nextSong);
+
 
